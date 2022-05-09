@@ -13,13 +13,13 @@ future: true
 
 # SNS settings
 RSS: true
-#weibo_username:     2776591135
-douban_username:    69635011
-zhihu_username:     lele-feng-15
-github_username:    candycat1992
-twitter_username:   candycat1992
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+weibo_username:    
+douban_username:    
+zhihu_username:     
+github_username:    
+twitter_username:   
+facebook_username:  
+linkedin_username:  
 
 
 
@@ -60,7 +60,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: hux
+#disqus_username: emu
 
 
 
@@ -71,13 +71,13 @@ netease_comment: false
 
 # LiveRe setttings
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8yODg4Mi81NDUy
+livere_uid: 
 
 
 
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: 207a182a0a79e8a76bfd02381045166f
+ba_track_id: 
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -112,13 +112,13 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Kingdom的Blog",
-        href: "https://kingdom017.me/"
+        title: "",
+        href: ""
     },{
-        title: "疯草莓的Blog",
-        href: "http://madstrawberry.me/"
+        title: "",
+        href: ""
     },{
-        title: "Kanglai的Blog",
-        href: "http://qiankanglai.me/"
+        title: "",
+        href: ""
     }
 ]
