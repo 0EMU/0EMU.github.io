@@ -22,7 +22,7 @@ tags:
 * http://cenalulu.github.io/jekyll/choose-a-template-for-your-blog/
 * https://github.com/huxpro/huxpro.github.io/
 
-整个过程都比较简单，作为web小白的我就可以建出来，相信对你也不是难事！
+整个过程都比较简单，作为web菜鸟的我也可以搭建出来，相信对你也不是难事！
 
 ## 写在最后
 
