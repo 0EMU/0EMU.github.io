@@ -87,7 +87,7 @@ ba_track_id:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "「关注虚拟与现实的融合进程」"
+sidebar-about-description: "「关注虚拟与现实的融合进程，释放技术的想象力。」"
 sidebar-avatar: /img/avatar-girl.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
